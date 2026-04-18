@@ -80,54 +80,54 @@ Define the following terms using your textbook or other reliable academic source
 
 **Types of tissues:**
 
--   Epithelial \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Connective \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Muscular \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Nervous \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Epithelial [type of tissue that serves primarily as a covering or lining of body parts, protecting the body; it also functions in absorption, transport, and secretion]{.underline}
+-   Connective [type of tissue that serves to hold in place, connect, and integrate the body’s organs and systems]{.underline}
+-   Muscular [type of tissue that is capable of contracting and generating tension in response to stimulation; produces movement.]{.underline}
+-   Nervous [tissue that is capable of sending and receiving impulses through electrochemical signals.]{.underline}
 
 **Epithelial Tissues:**
 
--   Simple squamous \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Stratified squamous (keratinized/nonkeratinized) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Simple cuboidal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Stratified cuboidal/columnar – rare \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Simple columnar \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Pseudostratified columnar epithelium \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Transitional epithelium \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Simple squamous [tissue that consists of a single layer of flat scale-like cells; promotes diffusion and filtration across surface]{.underline}
+-   Stratified squamous (keratinized/nonkeratinized) [epithelium tissue that consists of multiple layers of cells with the most apical being flat scale-like cells; protects surfaces from abrasion]{.underline}
+-   Simple cuboidal [tissue that consists of a single layer of cube-shaped cells; promotes secretion and absorption in ducts and tubules]{.underline}
+-   Stratified cuboidal/columnar – [rare epithelium tissue that consists of two or more layers of cube-shaped cells, found in some ducts/stratified columnar epithelium tissue that consists of two or more layers of column-like cells, contains glands, and is found in some ducts]{.underline}
+-   Simple columnar [tissue that consists of a single layer of column-like cells; promotes secretion and absorption in tissues and organs]{.underline}
+-   Pseudostratified columnar epithelium [epithelium tissue that consists of a single layer of irregularly shaped and sized cells that give the appearance of multiple layers; found in ducts of certain glands and the upper respiratory tract]{.underline}
+-   Transitional epithelium [stratified epithelium found in the urinary tract, characterized by an apical layer of cells that change shape in response to the presence of urine]{.underline}
 
 **Define the following epithelial features:**
 
 -   Epithelial layers:
-    -   Simple \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Stratified \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    -   Simple [single layer of cells covering the basement membrane]{.underline}
+    -   Stratified [several layers of cells above the basement membrane]{.underline}
 -   Surfaces:
-    -   Apical \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Basal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Basement membrane \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    -   Apical [part of a cell or tissue which, in general, faces an open space]{.underline}
+    -   Basal [attached to other tissues]{.underline}
+    -   Basement membrane [a thin layer of fibrous material that anchors the epithelial tissue to the underlying connective tissue; made up of the basal lamina and reticular lamina]{.underline}
 
 **Connective Tissue:**
 
--   Cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Areolar connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Hyaline cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Adipose tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Fibrocartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Elastic cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Regular dense connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Irregular dense connective tissue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Bone \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Blood – detail in cardiovascular system \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Cartilage [a connective tissue with a gelatinous matrix containing an abundance of fibers]{.underline}
+-   Areolar connective tissue [a type of connective tissue proper that shows little specialization with cells dispersed in the matrix]{.underline}
+-   Hyaline cartilage [most common type of cartilage, smooth and made of short collagen fibers embedded in a chondroitin sulfate ground substance]{.underline}
+-   Adipose tissue [specialized areolar tissue rich in stored fat]{.underline}
+-   Fibrocartilage [tough form of cartilage, made of thick bundles of collagen fibers embedded in chondroitin sulfate ground substance]{.underline}
+-   Elastic cartilage [type of cartilage, with elastin as the major protein, characterized by rigid support as well as elasticity]{.underline}
+-   Regular dense connective tissue [a connective tissue characterized by tightly packed collagen fibers arranged in parallel, providing strength and resistance to pulling forces in one direction.]{.underline}
+-   Irregular dense connective tissue [a connective tissue characterized by collagen fibers that are arranged in a random, interwoven pattern, providing strength and resistance to stretching in multiple directions.]{.underline}
+-   Bone [one of the hard parts of the skeleton of a vertebrate]{.underline}
+-   Blood – detail in cardiovascular system [the fluid that circulates in the cardiovascular system]{.underline}
 
 **Connective Tissue Features:**
 
--   Collagen fibers \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Elastin fibers \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Extracellular matrix \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Cells \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Fibroblasts \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Adipocytes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    -   Chondrocytes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Lacuna \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   Collagen fibers [flexible fibrous proteins that give connective tissue tensile strength]{.underline}
+-   Elastin fibers [fibrous protein within connective tissue that contains a high percentage of the protein elastin that allows the fibers to stretch and return to original size]{.underline}
+-   Extracellular matrix [a suspension of macromolecules that supports everything from local tissue growth to the maintenance of an entire organ.]{.underline}
+-   Cells [The smallest living unit in the human body]{.underline}
+    -   Fibroblasts [most abundant cell type in connective tissue, secretes protein fibers and matrix into the extracellular space]{.underline}
+    -   Adipocytes [lipid storage cells]{.underline}
+    -   Chondrocytes [cells of the cartilage]{.underline}
+-   Lacuna [small spaces in bone or cartilage tissue that cells occupy]{.underline}
 
 ## **Lab Activities**
 
@@ -156,28 +156,28 @@ Use the pictures in the table below to review several tissue types, locate the e
 5.  In the picture of simple columnar epithelium, locate the apical edge and the basal edge, then label them. Check with your instructor to verify your accuracy.
 6.  For each tissue, describe how the anatomy of the tissue enables its functions.
 
-| Image                                         | Name | Location | Function |
-|-----------------------------------------------|------|----------|----------|
-| ![Figure 4.3](images/ch4_0.jpg)**Figure 4.3** |      |          |          |
-| ![Figure 4.4](images/ch4_1.jpg)**Figure 4.4** |      |          |          |
-| ![Figure 4.5](images/ch4_2.jpg)**Figure 4.5** |      |          |          |
-| ![Figure 4.6](images/ch4_3.jpg)**Figure 4.6** |      |          |          |
-| ![Figure 4.7](images/ch4_4.jpg)**Figure 4.7** |      |          |          |
-| ![Figure 4.8](images/ch4_5.jpg)**Figure 4.8** |      |          |          |
+| Image | Name | Location | Function |
+|--------------------------------------|------------|------------|------------|
+| ![Figure 4.3](images/ch4_0.jpg)**Figure 4.3** | simple squamous epithelium | lining of peritoneal cavity | reduces friction, controls vessel permeability, performs absorption and secretion |
+| ![Figure 4.4](images/ch4_1.jpg)**Figure 4.4** | simple cuboidal epithelium | kidney tubule | limited protection, secretion, absorption |
+| ![Figure 4.5](images/ch4_2.jpg)**Figure 4.5** | simple columnar epithelium | intestinal lining | protection, secretion, absorption |
+| ![Figure 4.6](images/ch4_3.jpg)**Figure 4.6** | stratified squamous epithelium | surface of tongue | provides physical protection against abrasion, pathogens, and chemical attack |
+| ![Figure 4.7](images/ch4_4.jpg)**Figure 4.7** | pseudostratified ciliated columnar epithelium | trachea | protection, secretion, moves mucus with cilia |
+| ![Figure 4.8](images/ch4_5.jpg)**Figure 4.8** | transitional epithelium | urinary bladder | permits expansion and recoil after stretching |
 
 ### **Terms:**
 
 ## **Epithelial Tissues:**
 
--   Simple squamous
+-   Simple squamous - tissue that consists of a single layer of flat scale-like cells; promotes diffusion and filtration across surface
 
--   Simple cuboidal
+-   Simple cuboidal - tissue that consists of a single layer of cube-shaped cells; promotes secretion and absorption in ducts and tubules
 
--   Simple columnar
+-   Simple columnar - tissue that consists of a single layer of column-like cells; promotes secretion and absorption in tissues and organs
 
--   Transitional
+-   Transitional - stratified epithelium found in the urinary tract, characterized by an apical layer of cells that change shape in response to the presence of urine
 
--   Stratified squamous
+-   Stratified squamous - epithelium tissue that consists of multiple layers of cells with the most apical being flat scale-like cells; protects surfaces from abrasion
 
 ## **Lab Activity 4.2: Microscope work:**
 
@@ -232,30 +232,30 @@ Using a light microscope review the tissues assigned by your Lab Instructor at a
 a)  Structural Connective Tissue
 
 -   Loose Connective Tissue (Areolar connective tissue)
-    -   Areolar
-    -   Adipose Tissue
--   Dense (fibrous) connective tissue
-    -   Regular
-    -   irregular
--   Fluid Connective Tissues
-    -   Blood
--   Supportive connective tissue
-    -   Cartilage
-        -   Hyaline
-        -   Fibrocartilage
-        -   Elastic
-    -   Bone
+    -   Areolar - a type of connective tissue proper that shows little specialization with cells dispersed in the matrix
+    -   Adipose Tissue - specialized areolar tissue rich in stored fat
+-   Dense (fibrous) connective tissue - connective tissue proper that contains many fibers that provide both elasticity and protection
+    -   Regular - a connective tissue characterized by tightly packed collagen fibers arranged in parallel, providing strength and resistance to pulling forces in one direction.
+    -   irregular - a connective tissue characterized by collagen fibers that are arranged in a random, interwoven pattern, providing strength and resistance to stretching in multiple directions.
+-   Fluid Connective Tissues - specialized cells that circulate in a watery fluid containing salts, nutrients, and dissolved proteins
+    -   Blood - the fluid that circulates in the cardiovascular system
+-   Supportive connective tissue - type of connective tissue that provides strength to the body and protects soft tissue
+    -   Cartilage - a connective tissue with a gelatinous matrix containing an abundance of fibers
+        -   Hyaline - most common type of cartilage, smooth and made of short collagen fibers embedded in a chondroitin sulfate ground substance
+        -   Fibrocartilage - tough form of cartilage, made of thick bundles of collagen fibers embedded in chondroitin sulfate ground substance
+        -   Elastic - type of cartilage, with elastin as the major protein, characterized by rigid support as well as elasticity
+    -   Bone - one of the hard parts of the skeleton of a vertebrate
 
 ## **Features Bone:** Dense Connective Tissues
 
--   Osteoprogenitor cells
--   Osteocytes
--   osteoclasts
--   Osteon
--   Lacuna
--   Canaliculi
--   osteon canal
--   matrix
+-   Osteoprogenitor cells - immature, self-renewing stem cells derived from mesenchymal stem cells that differentiate into osteoblasts for bone growth remodeling and repair
+-   Osteocytes - a bone cell responsible for the maintenance and turnover of the mineral content of the surrounding bone
+-   osteoclasts - cells that dissolve the fibers and matrix of bone
+-   Osteon - the basic histological unit of compact bone, consisting of osteocytes organized around a central canal and separated by concentric lamellae
+-   Lacuna - small spaces in bone or cartilage tissue that cells occupy
+-   Canaliculi - microscopic passageways between cells; in bone, canaliculi permit the diffusion of nutrient and wastes to and from osteocytes
+-   osteon canal - central channels in compact bone that house blood vessels, nerves, and lymphatic vessels
+-   matrix - extracellular material which is produced by the cells embedded in it, containing ground substance and fibers
 
 ### **Lab Activity 4.4: Microscope Work:**
 
@@ -282,10 +282,23 @@ a)  Structural Connective Tissue
 
 -   Discuss the two ways how epithelium can be classified.
     -   Use examples of how the structure and shape of the epithelium influences the function it serves in the area of the body in which it is located.
+
+        Epithelium can be classified by cell shape and number of layers. Stratified squamous epithelium's multiple layers and cheap resource cost of being flat serve a function of expendable protection on skin from things like abrasion. Simple squamous epithelium's singular thin layer helps ease absorption like in kidney tubules.
 -   With Respect to the tissues
     -   Name the major tissue types found in the human body.
+
+        Epithelial, Connective, Muscle, Nervous
+
     -   Describe their general characteristics and give an example of where they can be found.
--   The \_\_\_\_\_\_ tissue contains an apical surface.
+
+        Epithelial: covers exposed surfaces, lines internal passageways and chambers, produces glandular secretions: Skin
+
+        Connective: fills internal spaces, provides structural support, stores energy: Bone
+
+        Muscle: contracts to produce active movement: Skeletal muscles
+
+        Nervous: propagates electrical impulses, carries information: Brain
+-   The [epithelial]{.underline} tissue contains an apical surface.
 
 ## **Post Lab Activity 4.2**
 
@@ -296,27 +309,27 @@ a)  Structural Connective Tissue
 
 ![](images/_page_89_Picture_4.jpeg)
 
-1.  **Fig. 4.10**
+1.  **Fig. 4.10** Bone: Bones
 
 ![](images/_page_89_Picture_7.jpeg)
 
-2.  **Fig. 4.11**
+2.  **Fig. 4.11** Fibrous Cartilage: Pads within knee joint
 
 ![](images/_page_89_Picture_11.jpeg)
 
-3.  **Fig. 4.12**
+3.  **Fig. 4.12** Elastic cartilage: Epiglottis
 
 ![](images/_page_89_Picture_5.jpeg)
 
-4.  **Fig. 4.13**
+4.  **Fig. 4.13** Areolar: Between muscles
 
 ![](images/_page_89_Picture_9.jpeg)
 
-5.  **Fig. 4.10**
+5.  **Fig. 4.10** Dense regular connective: Tendons
 
 ![](images/_page_89_Picture_13.jpeg)
 
-6.  **Fig. 4.15**
+6.  **Fig. 4.15** Adipose: Deep to the skin
 
 ## **Post Lab Activity 4.3**
 
@@ -328,21 +341,21 @@ Match the following tissue with its function or location.
 
 ### **Across**
 
--   4 kidney glomeruli and alveoli of lungs (6,8,10)
--   5 Carry action potentials throughout the body (6)
--   7 Cells that nourish and support (5,4)
--   9 Protects underlying tissues from abrasion (10,8,10)
--   11 Function: secretion and absorption (6,8,10)
--   12 Attached to the bones, occasionally to the skin (8,6)
+-   4 kidney glomeruli and alveoli of lungs (6,8,10) **simple squamous epithelium**
+-   5 Carry action potentials throughout the body (6) **neuron**
+-   7 Cells that nourish and support (5,4) **glial cell**
+-   9 Protects underlying tissues from abrasion (10,8,10) **stratified squamous epithelium**
+-   11 Function: secretion and absorption (6,8,10) **simple cuboidal epithelium**
+-   12 Attached to the bones, occasionally to the skin (8,6) **skeletal muscle**
 
 ### **Down**
 
--   1 Tendons and ligaments (5,7,10,6)
--   2 Functions as a binding tissue (5,10,6)
--   3 Mineral storage (4)
--   6 Covers the ends of long bones in joint cavities (7,9)
--   8 Contracts, propels blood in the circulation (7,6)
--   10 Mostly in the walls of hollow organs. (6,6)
+-   1 Tendons and ligaments (5,7,10,6) **dense regular connective tissue**
+-   2 Functions as a binding tissue (5,10,6) **loose connective tissue**
+-   3 Mineral storage (4) **bone**
+-   6 Covers the ends of long bones in joint cavities (7,9) **hyaline cartilage**
+-   8 Contracts, propels blood in the circulation (7,6) **cardiac muscle**
+-   10 Mostly in the walls of hollow organs. (6,6) **smooth muscle**
 
 ## **Additional tissue review materials**
 
